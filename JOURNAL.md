@@ -5,7 +5,5 @@
 Les fichiers de la branche ont été relus avant la fusion : `.gitignore`,
 `main/index.html` et `projets.html`.
 
-Aucun conflit n'est apparu, car `main` n'a pas reçu de modification concurrente
-depuis la création de `feature/projets`. La branche ajoute `.gitignore` et
-`projets.html`, et sa seule modification d'une ligne existante dans
-`main/index.html` ne chevauche aucun changement fait sur `main`.
+Aucun conflit n'est apparu, car `main` n'a pas reçu de modification
+depuis la création de `feature/projets`. Tout les changements on était fais dans sa branche respective sans empiété sur le main simultanément 
